@@ -1,5 +1,14 @@
-# run
-RUN is a game that inspired by lode runner game.
+# RUN
+# Description
+RUN is a game that inspired by lode runner game. This project developed using C and C# programming language.
+
+# Functions:
+- Player move (up, down, right, left)
+- Dig
+- Enemy
+- Live
+- Treasure
+- Score
 
 # Screenshot
 - Landing page
